@@ -80,7 +80,7 @@ input:active, textarea:active, .roundfield textarea:active, .roundfield input[ty
 
 
 #sr-header-area {
-	background-color: rgba(0,0,0,0.05);
+	background-color: rgba(0,0,0,0.9);
 	border: 0px solid;
 	transition: all 0.15s ease;
 	height: 24px;
@@ -202,6 +202,7 @@ a.random.choice {
 	position: absolute;
 	top: 36px;
 	left: 16px;
+	background-color: rgba(20,104,46,0.95);
 }
 
 #header .tabmenu {
@@ -889,7 +890,7 @@ body:before {
 	width: 100%;
 	left: 0px;
 	right: 0px;
-	background-color: #3A3D4D;
+	background-color: rgba(20,104,46);
 	background-image: url(%%headerimg%%);
 	background-repeat: both;
 	background-position: 50% 0%;
