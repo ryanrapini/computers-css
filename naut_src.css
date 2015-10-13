@@ -2942,3 +2942,210 @@ body.listing-page>.content {margin-top: 132px;}
         .side .titlebox .md h5 a:hover {text-decoration: underline;}
 
 /* --- End Addon --- */
+
+/* --- Addon: Dark Theme --- */
+
+    /* Background Color */
+    .res-nightmode body {background-color: #1C1E22;}
+
+    /* Card Color */
+    .res-nightmode .link, 
+    .res-nightmode input:not([type="submit"]), 
+    .res-nightmode textarea, 
+    .res-nightmode .side, 
+    .res-nightmode .side .titlebox .md h4 a, 
+    .res-nightmode .wiki-page .wiki-page-content .md.wiki h4 .comments-page .side .linkinfo, 
+    .res-nightmode .commentarea .thing,
+    .res-nightmode .stylesheet-customize-container .pretty-form,
+    .res-nightmode #images,
+    .res-nightmode .submit-page .roundfield,
+    .res-nightmode .linefield,
+    .res-nightmode .btn,
+    .res-nightmode button,
+    .res-nightmode .drop-choices,
+    .res-nightmode .hover-bubble,
+    .res-nightmode .search-page .searchpane,
+    .res-nightmode .content.submit .info-notice, 
+    .res-nightmode .submit-page #newlink.submit.content .tabmenu.formtab a,
+    .res-nightmode .flairselector:before,
+    .res-nightmode .flairselector,
+    .res-nightmode .comments-page .side .linkinfo,
+    .res-nightmode .wiki-page .pageactions,
+    .res-nightmode .wiki-page .wikititle,
+    .res-nightmode .wiki-page .wiki-page-content,
+    .res-nightmode .search-page .menuarea,
+    .res-nightmode .sitetable .nav-buttons
+    {background-color: #2E3135;}
+
+    .res-nightmode .res-commentBoxes .comment .comment .comment,
+    .res-nightmode .res-commentBoxes .comment .comment .comment .comment .comment, 
+    .res-nightmode .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment, 
+    .res-nightmode .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment
+    {background-color: #2E3135 !important;}
+
+    /* Secondary Card Color */
+    .res-nightmode #search #searchexpando, 
+    .res-nightmode .commentarea>.usertext, 
+    .res-nightmode .search-page .searchfacets, 
+    .res-nightmode .link.last-clicked, 
+    .res-nightmode .titlebox .tagline:after,
+    .res-nightmode .submit-page #newlink.submit.content .tabmenu.formtab a:hover, 
+    .res-nightmode .top-page .content .menuarea .drop-choices.lightdrop a.choice:hover,
+    .res-nightmode .md code, 
+    .res-nightmode .md pre, 
+    .res-nightmode .pretty-form textarea, 
+    .res-nightmode .btn:hover, 
+    .res-nightmode button:hover, 
+    .res-nightmode .btn:active, 
+    .res-nightmode button:active, 
+    .res-nightmode .new-comment .usertext-body
+    {background-color: #25282C;}
+
+    .res-nightmode .res-commentBoxes .comment .comment,
+    .res-nightmode .res-commentBoxes .comment .comment .comment .comment, 
+    .res-nightmode .res-commentBoxes .comment .comment .comment .comment .comment .comment, 
+    .res-nightmode .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment,
+    .res-nightmode .res-commentBoxes .comment .comment .comment .comment .comment .comment .comment .comment .comment .comment 
+    {background-color: #25282C !important;}
+
+    /* Border Color */
+    .res-nightmode .link .entry, 
+    .res-nightmode .side .titlebox .md h4 a, 
+    .res-nightmode .wiki-page .wiki-page-content .md.wiki h4, 
+    .res-nightmode .link .usertext .md, 
+    .res-nightmode input:not([type="submit"]), 
+    .res-nightmode textarea,
+    .res-nightmode .btn, 
+    .res-nightmode button, 
+    .res-nightmode .roundfield textarea, 
+    .res-nightmode .roundfield input[type=text], 
+    .res-nightmode .top-page .content .menuarea .drop-choices.lightdrop,
+    .res-nightmode .roundfield input[type=url], 
+    .res-nightmode .roundfield input[type=password], 
+    .res-nightmode .roundfield input[type=number], 
+    .res-nightmode .md code, 
+    .res-nightmode .md pre,
+    .res-nightmode .wiki-page .wiki-page-content hr, 
+    .res-nightmode .expando-button, 
+    .res-nightmode .expando-button.image, 
+    .res-nightmode .expando-button.video-muted, 
+    .res-nightmode .search-page #search input[type=text], 
+    .res-nightmode .footer .col, 
+    .res-nightmode .linefield textarea, 
+    .res-nightmode .linefield input[type=text], 
+    .res-nightmode .linefield input[type=password],
+    .res-nightmode .comment .child, 
+    .res-nightmode .comment .showreplies, 
+    .res-nightmode .linkinfo .shortlink input, 
+    .res-nightmode .sitetable .nav-buttons, 
+    .res-nightmode input:hover, 
+    .res-nightmode textarea:hover,
+    .res-nightmode .pretty-form textarea 
+    {border-color: #25282C;}
+
+    /* Grey Text Color */
+    .res-nightmode body, 
+    .res-nightmode .link .domain a, 
+    .res-nightmode .link .entry .buttons li a, 
+    .res-nightmode .link .entry .tagline, 
+    .res-nightmode .flair, 
+    .res-nightmode .titlebox .tagline, 
+    .res-nightmode .bottommenu, 
+    .res-nightmode .tagline .stickied-tagline,
+    .res-nightmode .comment .flat-list li a, 
+    .res-nightmode .comment .entry .tagline, 
+    .res-nightmode .comment .expand, 
+    .res-nightmode .comment .entry, 
+    .res-nightmode .comments-page .side .linkinfo .date, 
+    .res-nightmode .usertext .bottom-area a, 
+    .res-nightmode .commentarea .menuarea span.dropdown-title.lightdrop, 
+    .res-nightmode .commentarea .menuarea .toggle a, 
+    .res-nightmode .help-hoverable,
+    .res-nightmode .search-page .menuarea, 
+    .res-nightmode .link .score, 
+    .res-nightmode .sitetable .nav-buttons .nextprev, 
+    .res-nightmode .gray, 
+    .res-nightmode .linefield, 
+    .res-nightmode .top-page .content .menuarea .drop-choices.lightdrop a.choice,
+    .res-nightmode .wiki-page .pageactions .wikiaction, 
+    .res-nightmode .wiki-page .wiki-page-content em, 
+    .res-nightmode .searchfacets h4.title, 
+    .res-nightmode .link .entry .buttons li .redditSingleClick
+     {color: #686E7B;}
+
+
+    /* Black Text Color */
+    .res-nightmode .link .entry .tagline a, 
+    .res-nightmode .titlebox h1 a, 
+    .res-nightmode .md h1, 
+    .res-nightmode .md h2, 
+    .res-nightmode .titlebox span.subscribers, 
+    .res-nightmode .titlebox .users-online, 
+    .res-nightmode .titlebox .number,
+    .res-nightmode .side .titlebox .md h4 a, 
+    .res-nightmode .wiki-page .wiki-page-content .md.wiki h4, 
+    .res-nightmode .side .md .-blocks, 
+    .res-nightmode .side .md .-lists, 
+    .res-nightmode .side .md pre, 
+    .res-nightmode .side .md blockquote, 
+    .res-nightmode .side .md table, 
+    .res-nightmode .side .md p, 
+    .res-nightmode .side .md ul, 
+    .res-nightmode .side .md ol, 
+    .res-nightmode .side #moderation_tools .title h1, 
+    .res-nightmode .sidecontentbox .title h1,
+    .res-nightmode .sidecontentbox .more a, 
+    .res-nightmode .flat-vert.title, 
+    .res-nightmode .md h3, 
+    .res-nightmode .comment .usertext .md, 
+    .res-nightmode .comment .score, 
+    .res-nightmode .comment .author, 
+    .res-nightmode .comments-page .side .linkinfo, 
+    .res-nightmode #search #searchexpando, 
+    .res-nightmode .commentarea .panestack-title .title, 
+    .res-nightmode .hover-bubble, 
+    .res-nightmode .search-page #search label, 
+    .res-nightmode .search-page .menuarea,
+    .res-nightmode .search-page .menuarea .dropdown.lightdrop .selected, 
+    .res-nightmode .submit-page .roundfield .title, 
+    .res-nightmode .submit-page .roundfield, 
+    .res-nightmode .submit-page #newlink.submit.content .tabmenu.formtab a, 
+    .res-nightmode #sr-header-area .drop-choices a.choice, 
+    .res-nightmode .comments-page .side .linkinfo .score, 
+    .res-nightmode .pretty-form, 
+    .res-nightmode input:not([type="submit"]),
+    .res-nightmode textarea, 
+    .res-nightmode .link .usertext .md, 
+    .res-nightmode .btn:hover, 
+    .res-nightmode button:hover, 
+    .res-nightmode .btn, 
+    .res-nightmode button, 
+    .res-nightmode .hover-bubble.multi-selector strong, 
+    .res-nightmode .wiki-page .wikititle, 
+    .res-nightmode .wiki-page-content .md h1, 
+    .res-nightmode .wiki-page-content .md h6,
+    .res-nightmode .wiki-page .wiki-page-content .wiki.md, 
+    .res-nightmode .wiki-page .wiki-page-content .wiki.md h2, 
+    .res-nightmode input:focus, 
+    .res-nightmode textarea:focus,  
+    .res-nightmode .pretty-form textarea,
+    .res-nightmode .wiki-page .pageactions .wikiaction-current  
+    {color: #d2d2d2;}
+
+    /* Misc Fixes - Don't touch this */
+    .res-nightmode .btn, 
+    .res-nightmode button {box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25); -webkit-box-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);}
+    .res-nightmode .btn:hover, 
+    .res-nightmode button:hover {box-shadow: 0px 6px 7px 0 rgba(0, 0, 0, 0.42); -webkit-box-shadow: 0px 6px 7px 0 rgba(0, 0, 0, 0.42);}
+    .res-nightmode .btn:active, 
+    .res-nightmode button:active {box-shadow: none;}
+    .res-nightmode .side .titlebox .md h4 a, 
+    .res-nightmode .wiki-page .wiki-page-content .md.wiki h4 {box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.48);}
+    .res-nightmode .side .titlebox h4 a:hover, 
+    .res-nightmode .wiki-page .wiki-page-content .md.wiki h4:hover {box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.48);}
+    .res-nightmode .search-page input[type="text"] {color: #fff !important;}
+    .res-nightmode .new-comment .usertext-body {background-color: rgba(229, 239, 255, 0.1); border: 0px solid;}
+
+
+
+/* --- End Addon --- */
