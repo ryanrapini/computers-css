@@ -891,7 +891,7 @@ body:before {
 	right: 0px;
 	background-color: #3A3D4D;
 	background-image: url(%%headerimg%%);
-	background-repeat: no-repeat;
+	background-repeat: both;
 	background-position: 50% 0%;
 	content: "";
 	text-indent: -9999px;
